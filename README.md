@@ -38,6 +38,7 @@ credit_risk_scoring/
 ├── 📝 Pipfile.lock  
 └── 📝 README.md
 
+```
 ---
 
 ## 🔄 Workflow Details
